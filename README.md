@@ -1,5 +1,7 @@
 Code usage:
 
+KS_env.yaml is the environment used to run all the code used in this project.
+
 Audun_solver.py is A solver for KS equation written by Audun Theodorsen.
 
 Audun_solver_FS.py is a Audun_solver.py rewritten to be able to be compared with the numerical ETD-RK methods discussed in the project.
