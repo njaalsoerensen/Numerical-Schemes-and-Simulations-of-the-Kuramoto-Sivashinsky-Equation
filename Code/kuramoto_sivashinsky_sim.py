@@ -1,3 +1,4 @@
+# Written by Audun Theodorsen
 import numpy as np
 import kuramoto_sivashinsky_helper as ksh
 
