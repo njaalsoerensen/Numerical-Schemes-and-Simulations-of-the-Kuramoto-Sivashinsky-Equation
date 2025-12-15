@@ -1,3 +1,4 @@
+# Most written by Audun Theodorsen and sligtly changed by Njål Gunnar Sørensen
 import os
 try:
     os.chdir("Documents/Current_semester/Prosjektoppgave")
@@ -144,3 +145,4 @@ if __name__ == '__main__':
 
     KS_FS_sin = different_initial_data(nu=nu, max_wavenumber=N, tmax=T, dt=dt)
     print(KS_FS_sin.u_fourier.shape)
+
