@@ -1,3 +1,4 @@
+# Written by Audun Theodorsen
 import scipy.sparse as sp
 from scipy.integrate import solve_ivp
 from scipy.signal import convolve
