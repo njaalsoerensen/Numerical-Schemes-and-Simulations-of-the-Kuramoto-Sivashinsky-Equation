@@ -1,3 +1,4 @@
+# Written by Audun Theodorsen
 import os
 try:
     os.chdir("Documents/Current_semester/Prosjektoppgave")
@@ -130,3 +131,4 @@ def different_initial_data(nu, max_wavenumber, tmax, dt):
         plt.legend()
 
 different_initial_data(0.1, 2**7, 30, 0.1)
+
