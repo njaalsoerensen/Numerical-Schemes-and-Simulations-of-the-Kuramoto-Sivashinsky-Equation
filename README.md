@@ -6,7 +6,7 @@ Audun_solver_FS.py is a Audun_solver.py rewritten to be able to be compared with
 
 KS_compute.py contains all the code code used to generate plots.
 Sectoins of code in __name__ == '__main__' block is organized within HTML style sections <section></section> of commentout out code.
- - '''<Solve history>''' is used to generatte contour plots of solutions.
+ - '<Solve history>' is used to generatte contour plots of solutions.
  - '''<Energy conservation conformation>''' is used to generate plots relating to the energy conservation equation, the neergy phase space, and the energy over time.
  - '''<Confirm behavour>''' Is used to generate animations of solutions for all methods in time domain, the methods used can be found without the run_full_ETD() function.
  - '''<Confirm behavour FT>''' is the same as confirm behavour, but for the solutions given in frequency domain.
