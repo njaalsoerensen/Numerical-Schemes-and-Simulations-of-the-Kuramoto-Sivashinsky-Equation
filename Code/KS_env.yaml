@@ -1,0 +1,10 @@
+database:
+  host: localhost
+  port: 5432
+  name: my_app_db
+api_keys:
+- key123
+- key456
+settings:
+  debug_mode: true
+  max_connections: 10
