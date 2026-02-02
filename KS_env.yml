@@ -1,4 +1,0 @@
-name: my_env_name
-channels:
-- defaults
-prefix: C:\Users\njaal\anaconda3\envs\my_env_name
